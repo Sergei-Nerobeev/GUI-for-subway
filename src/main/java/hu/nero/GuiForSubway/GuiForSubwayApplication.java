@@ -1,4 +1,4 @@
-package hu.nero.GUI_for_subway;
+package hu.nero.GuiForSubway;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
